@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1a1zp1ep5qgefi2dmptftl5slmv7divfna
+- 👋 Hi, I’m Satoshi Nakamoto
 - 👀 I’m interested in BITCOIN
 - 🌱 I’m currently learning BITCOIN
 - 💞️ I’m looking to collaborate on BITCOIN
